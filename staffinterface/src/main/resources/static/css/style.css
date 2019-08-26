@@ -1,0 +1,11 @@
+table,tr,td{
+    border: 1px solid #ccc;
+}
+table{
+    border-collapse:collapse;
+
+}
+td{
+    width:120px;
+    height:30px;
+}
